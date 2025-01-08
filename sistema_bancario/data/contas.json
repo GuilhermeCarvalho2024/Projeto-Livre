@@ -1,0 +1,98 @@
+[
+    {
+        "nome": "1",
+        "cpf": "1",
+        "senha": "1",
+        "endereco": {
+            "rua": "1",
+            "numero": "1",
+            "cidade": "1",
+            "estado": "1"
+        },
+        "saldo": 1900.0
+    },
+    {
+        "nome": "2",
+        "cpf": "2",
+        "senha": "2",
+        "endereco": {
+            "rua": "2",
+            "numero": "2",
+            "cidade": "2",
+            "estado": "2"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "3",
+        "cpf": "3",
+        "senha": "3",
+        "endereco": {
+            "rua": "3",
+            "numero": "3",
+            "cidade": "3",
+            "estado": "3"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "4",
+        "cpf": "4",
+        "senha": "4",
+        "endereco": {
+            "rua": "4",
+            "numero": "4",
+            "cidade": "4",
+            "estado": "4"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "0",
+        "cpf": "0",
+        "senha": "0",
+        "endereco": {
+            "rua": "0",
+            "numero": "0",
+            "cidade": "0",
+            "estado": "0"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "7",
+        "cpf": "7",
+        "senha": "7",
+        "endereco": {
+            "rua": "7",
+            "numero": "7",
+            "cidade": "7",
+            "estado": "7"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "5",
+        "cpf": "5",
+        "senha": "5",
+        "endereco": {
+            "rua": "5",
+            "numero": "5",
+            "cidade": "5",
+            "estado": "5"
+        },
+        "saldo": 0
+    },
+    {
+        "nome": "6",
+        "cpf": "6",
+        "senha": "6",
+        "endereco": {
+            "rua": "6",
+            "numero": "6",
+            "cidade": "6",
+            "estado": "6"
+        },
+        "saldo": 0
+    }
+]
