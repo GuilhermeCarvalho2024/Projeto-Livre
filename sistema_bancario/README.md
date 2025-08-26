@@ -23,6 +23,3 @@ Para fins de teste, foi criado um arquivo chamado `dados.json`, que contém algu
 
 Nota: Para uma experiência completa, recomenda-se realizar o cadastro de uma nova conta.
 
-# Observações  
-- O sistema foi desenvolvido com foco na simplicidade
-- Caso tenha dúvidas ou sugestões, entre em contato!---61986792340---
